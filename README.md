@@ -13,34 +13,33 @@ Aplikace je postavena na **ASP .NET Core Razor Pages** a používá **Microsoft 
 
 ## 1) Primární uživatel: Rodinný uživatel solární elektrárny  
 **Charakteristika:**  
-- Sleduje výrobu a spotřebu energie ve své domácnosti.  
-- Nemá hlubší technické znalosti, potřebuje **jednoduchý a přehledný návod**.  
+- sleduje výrobu a spotřebu energie ve své domácnosti
+- nemá hlubší technické znalosti, potřebuje **jednoduchý a přehledný návod**
 
 **Možná dokumentace:**  
-- **Stručný uživatelský manuál** s **obrázky** → Jak se přihlásit, kde najít data, jak číst grafy.  
-- **Infografika** s vysvětlením, co znamenají jednotlivé hodnoty (např. spotřeba vs. výroba).  
+- **Stručný uživatelský manuál** s **obrázky** → jak se přihlásit, kde najít data, jak číst grafy
+- **Vizuální zobrazení** s vysvětlením, co znamenají jednotlivé hodnoty (např. spotřeba vs. výroba)  
 
 ---
 
 ## 2) Technický uživatel (např. solární nadšenci, kteří si chtějí aplikaci sami nastavit nebo si chtějí aplikaci přizpůsobit)  
 **Charakteristika:**  
-- Má technické znalosti a může chtít aplikaci rozšířit nebo nasadit na vlastní solární systém.  
-- Zajímá ho především **technická dokumentace** a konfigurace databáze.
-- Chce k aplikaci přistupovat odkudkoliv mimo domácí síť.
+- má technické znalosti a může chtít aplikaci rozšířit nebo nasadit na vlastní solární systém
+- zajímá ho především **technická dokumentace** a konfigurace databáze
+- chce k aplikaci přistupovat odkudkoliv mimo domácí síť
 
 **Možná dokumentace:**  
-- **Technická dokumentace** → Jak aplikace funguje, jak sbírá data, jak ji rozšířit.  
-- **Instalační příručka** → Jak aplikaci nasadit (Intel NUC, TailScale, SQL Server).  
-- **Komentovaný kód v repozitáři** → Pro lepší pochopení struktury aplikace.  
+- **Technická dokumentace** → jak aplikace funguje, jak sbírá data, jak ji rozšířit
+- **Instalační příručka** → jak aplikaci nasadit (Intel NUC, TailScale, SQL Server)
+- **Komentovaný kód v repozitáři** → pro lepší pochopení struktury aplikace
 
 ---
 
 ## 3) Administrátor systému (osoba zajišťující provoz aplikace)  
 **Charakteristika:**  
-- Spravuje běh aplikace a databáze.  
-- Potřebuje návod, jak aplikaci **aktualizovat**, **řešit problémy** a **zálohovat data**.  
+- spravuje běh aplikace
+- potřebuje návod, jak aplikaci **aktualizovat** a **řešit problémy**
 
 **Možná dokumentace:**  
-- **Troubleshooting guide (Řešení problémů)** → Co dělat, když aplikace nefunguje, jak zkontrolovat připojení k databázi.  
-- **Postup aktualizace** → Jak nasadit novou verzi aplikace.  
-- **Zálohování a obnova databáze** → Jak uchovat historická data. 
+- **Troubleshooting guide (Řešení problémů)** → co dělat, když aplikace nefunguje, jak zkontrolovat připojení k databázi
+- **Postup aktualizace** → jak nasadit novou verzi aplikace
