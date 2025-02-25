@@ -30,7 +30,7 @@ Aplikace je postavena na **ASP .NET Core Razor Pages** a používá **Microsoft 
 
 **Možná dokumentace:**  
 - **Technická dokumentace** → jak aplikace funguje, jak sbírá data, jak ji rozšířit
-- **Instalační příručka** → jak aplikaci nasadit (Intel NUC, TailScale, SQL Server)
+- **Instalační příručka** → jak aplikaci nasadit (Intel NUC, TailScale, SQL Server) (video tutoriál?)
 - **Komentovaný kód v repozitáři** → pro lepší pochopení struktury aplikace
 
 ---
