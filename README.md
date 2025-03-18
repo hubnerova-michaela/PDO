@@ -32,3 +32,47 @@ Aplikace je postavena na **ASP .NET Core Razor Pages** a používá **Microsoft 
 - **Technická dokumentace** → jak aplikace funguje, jak sbírá data, jak ji rozšířit
 - **Instalační příručka** → jak aplikaci nasadit (Intel NUC, TailScale, SQL Server) (video tutoriál?)
 - **Komentovaný kód v repozitáři** → pro lepší pochopení struktury aplikace
+
+
+
+# Osnova dokumentace
+
+## 1. Úvod
+- Stručný popis aplikace
+- Hlavní funkce a cíle aplikace
+- Termíny a piktogramy
+
+## 2. Uživatelská dokumentace (rodinný uživatel solární elektrárny)
+
+### 2.1 Přístup do aplikace
+- Jak se přihlásit (registrace, přihlašovací údaje)
+
+### 2.2 Navigace v aplikaci
+- Hlavní obrazovka a její prvky
+- Jak zobrazit aktuální stav solární elektrárny
+- Jak pracovat s tabulkami a grafy
+
+### 2.3 Význam zobrazených dat
+- Spotřeba vs. výroba energie
+- Stav baterií
+- Možné interpretace dat
+
+## 3. Technická dokumentace (vývojáři, uživatelé se zájmem o vlastní nasazení aplikace)
+
+### 3.1 Přehled architektury aplikace
+- Použité technologie (ASP.NET Core Razor Pages, SQL Server, TailScale)
+- Struktura aplikace (databáze)
+- Jak aplikace sbírá data
+
+### 3.2 Instalace a nasazení aplikace
+- Požadavky na hardware a software
+- Instalace Microsoft SQL Serveru
+- Konfigurace Intel NUC
+- Připojení přes TailScale
+
+### 3.3 Přístup k repozitáři a dokumentaci kódu
+
+## 4. Řešení problémů
+
+
+
